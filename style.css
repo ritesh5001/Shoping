@@ -9,3 +9,10 @@ body,html{
     width: 100%;
     background-color: black;
 }
+
+.main{
+    background-color: red;
+    height: 100%;
+    width: auto;
+    margin: 3rem;
+}
